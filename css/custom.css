@@ -1,0 +1,4 @@
+.schedule-table > thead > th,
+.schedule-table > tbody > tr { 
+  text-align: center;
+}
